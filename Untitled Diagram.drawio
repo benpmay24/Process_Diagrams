@@ -1,148 +1,255 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T23:07:04.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="mdrpGEtxVlDF_9tJY_Kg" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T21:12:38.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Wyc26Nwcv7z1TksU7XEo" version="24.2.3" type="github">
   <diagram name="Page-1" id="I6A4ylAw3HnmJw5ocZay">
-    <mxGraphModel dx="2899" dy="1066" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3056" dy="1148" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bwhzHLKfn5oi-G8HyU1l-1" target="cZQ5YU9C1nUy8sY3zPCZ-1">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bwhzHLKfn5oi-G8HyU1l-1" target="cZQ5YU9C1nUy8sY3zPCZ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bwhzHLKfn5oi-G8HyU1l-1" value="Platter Load" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="bwhzHLKfn5oi-G8HyU1l-1" value="Platter Load" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-4" y="249" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-1" target="cZQ5YU9C1nUy8sY3zPCZ-2">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-1" target="cZQ5YU9C1nUy8sY3zPCZ-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="56" y="426" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-1" value="Arrestor Install" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-1" value="Arrestor Install" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-4" y="346" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-2" target="cZQ5YU9C1nUy8sY3zPCZ-3">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-2" target="cZQ5YU9C1nUy8sY3zPCZ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-2" value="Vent Install" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-2" value="Vent Install" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-4" y="442" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-3" target="cZQ5YU9C1nUy8sY3zPCZ-7">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-3" target="cZQ5YU9C1nUy8sY3zPCZ-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-3" value="Flood Port Install" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-3" value="Flood Port Install" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-4" y="535" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-7" target="cZQ5YU9C1nUy8sY3zPCZ-9">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-7" target="cZQ5YU9C1nUy8sY3zPCZ-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-7" value="Mica glue dispense" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-7" value="Mica glue dispense" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-4" y="632" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-9" target="cZQ5YU9C1nUy8sY3zPCZ-11">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-9" target="cZQ5YU9C1nUy8sY3zPCZ-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-9" value="Mica sheet install" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-9" value="Mica sheet install" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-4" y="729" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-11" target="cZQ5YU9C1nUy8sY3zPCZ-12">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-11" target="cZQ5YU9C1nUy8sY3zPCZ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-11" value="Module seal install?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-11" value="Module seal install?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="190" y="729" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-12" target="cZQ5YU9C1nUy8sY3zPCZ-19">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-12" target="cZQ5YU9C1nUy8sY3zPCZ-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-12" value="Module install" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-12" value="Module install" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="190" y="632" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-15" target="cZQ5YU9C1nUy8sY3zPCZ-36">
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-15" target="cZQ5YU9C1nUy8sY3zPCZ-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-15" value="Module Mount Fastening" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="249" width="120" height="60" as="geometry" />
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-15" value="Module Mount Fastening" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="190" y="345" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-17" target="cZQ5YU9C1nUy8sY3zPCZ-28">
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-17" target="cZQ5YU9C1nUy8sY3zPCZ-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-17" value="Coolant Manifold Connections" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="384" y="346" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-19" target="cZQ5YU9C1nUy8sY3zPCZ-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-19" value="Module Seal Leak Test?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="535" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-21" target="cZQ5YU9C1nUy8sY3zPCZ-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-21" value="Module Seal Leak Test?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="446" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-24" target="cZQ5YU9C1nUy8sY3zPCZ-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-24" value="Hipot/IR Test" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="346" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-28" value="Coolant Leak Test" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="384" y="446" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-30" target="cZQ5YU9C1nUy8sY3zPCZ-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-30" value="Front Pyro Install (x2)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="384" y="535" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-31" target="cZQ5YU9C1nUy8sY3zPCZ-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-31" value="Front Busbar Install (x2)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="384" y="632" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-32" target="cZQ5YU9C1nUy8sY3zPCZ-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-32" value="Front HV Fastening" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-17" value="Coolant Manifold Connections" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="384" y="729" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-36" target="cZQ5YU9C1nUy8sY3zPCZ-17">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-19" target="cZQ5YU9C1nUy8sY3zPCZ-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="506" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-19" value="Module Seal Leak Test?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="190" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-24" target="cZQ5YU9C1nUy8sY3zPCZ-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-36" value="Coolant Passthrough Install &amp;amp; Fasten" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="384" y="249" width="120" height="60" as="geometry" />
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-24" value="Hipot/IR Test" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="190" y="442" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-37" target="cZQ5YU9C1nUy8sY3zPCZ-40">
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-28" target="cZQ5YU9C1nUy8sY3zPCZ-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-37" value="FDU Connector Install &amp;amp; Fasten" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;" vertex="1" parent="1">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-28" value="Coolant Leak Test" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="578" y="729" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-40" target="cZQ5YU9C1nUy8sY3zPCZ-45">
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-30" target="cZQ5YU9C1nUy8sY3zPCZ-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-40" value="Heat Pump Connector Install &amp;amp; Fasten" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;" vertex="1" parent="1">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-30" value="Front Pyro Install (x2)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="190" y="249" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-31" target="cZQ5YU9C1nUy8sY3zPCZ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-31" value="Front Busbar Install (x2)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="384" y="249" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-32" target="cZQ5YU9C1nUy8sY3zPCZ-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-32" value="Front HV Fastening" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="384" y="346" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-36" target="cZQ5YU9C1nUy8sY3zPCZ-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-36" value="Coolant Passthrough Install &amp;amp; Fasten" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="384" y="632" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-37" target="cZQ5YU9C1nUy8sY3zPCZ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-37" value="FDU Connector Install &amp;amp; Fasten" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="384" y="442" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-40" target="cZQ5YU9C1nUy8sY3zPCZ-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-40" value="Heat Pump Connector Install &amp;amp; Fasten" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="384" y="538" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-45" target="cZQ5YU9C1nUy8sY3zPCZ-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-45" value="Sealant Dispense" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="578" y="632" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-45" target="cZQ5YU9C1nUy8sY3zPCZ-46">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-46" target="cZQ5YU9C1nUy8sY3zPCZ-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-45" value="Sealant Dispense" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="578" y="535" width="120" height="60" as="geometry" />
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-46" value="Top Cover Install" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="578" y="543" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-46" target="cZQ5YU9C1nUy8sY3zPCZ-47">
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-47" target="cZQ5YU9C1nUy8sY3zPCZ-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-46" value="Top Cover Install" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="578" y="446" width="120" height="60" as="geometry" />
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-47" value="Perimeter SPR" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="578" y="443" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-47" target="cZQ5YU9C1nUy8sY3zPCZ-48">
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZQ5YU9C1nUy8sY3zPCZ-48" target="V5HwN0qHpSAg2gvI54fK-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-47" value="Top Cover Fasten" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="578" y="346" width="120" height="60" as="geometry" />
+        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-48" value="Top Cover Fastening" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="578" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cZQ5YU9C1nUy8sY3zPCZ-48" value="Perimeter Joining/Fastening" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="578" y="243" width="120" height="60" as="geometry" />
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-405" y="452.5" width="64" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Auto&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-315" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-405" y="408.5" width="64" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Manual w/ Assist&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-315" y="406" width="146" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-405" y="363.5" width="64" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Manual&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-348" y="361" width="146" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-405" y="318.5" width="64" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;TBD&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-348" y="316" width="146" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5HwN0qHpSAg2gvI54fK-18" target="V5HwN0qHpSAg2gvI54fK-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-18" value="Perimeter Fastening" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="578" y="249" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5HwN0qHpSAg2gvI54fK-20" target="V5HwN0qHpSAg2gvI54fK-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-20" value="Enclosure Leak Test" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="772" y="249" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5HwN0qHpSAg2gvI54fK-23" target="V5HwN0qHpSAg2gvI54fK-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-23" value="Flood Port &amp;amp; Breather Install" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="772" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5HwN0qHpSAg2gvI54fK-25" target="V5HwN0qHpSAg2gvI54fK-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-25" value="Device Cluster Install &amp;amp; Fasten" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="772" y="443" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5HwN0qHpSAg2gvI54fK-29" target="V5HwN0qHpSAg2gvI54fK-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-29" value="PCS install &amp;amp; fasten" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="772" y="538" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5HwN0qHpSAg2gvI54fK-30" target="V5HwN0qHpSAg2gvI54fK-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-30" value="Header install &amp;amp; fasten" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="772" y="635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5HwN0qHpSAg2gvI54fK-32" target="V5HwN0qHpSAg2gvI54fK-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-32" value="PCS Coolant Install" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="772" y="732" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5HwN0qHpSAg2gvI54fK-33" target="V5HwN0qHpSAg2gvI54fK-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-33" value="PCS Coolant Leak Test" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="966" y="732" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5HwN0qHpSAg2gvI54fK-38" target="V5HwN0qHpSAg2gvI54fK-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-38" value="Ancillary Cover Install &amp;amp; Fasten" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="966" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5HwN0qHpSAg2gvI54fK-40" target="V5HwN0qHpSAg2gvI54fK-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-40" value="EOL Hipot &amp;amp; Functional Test" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="966" y="632" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5HwN0qHpSAg2gvI54fK-43" target="V5HwN0qHpSAg2gvI54fK-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-43" value="EOL Vacuum Leak" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="966" y="443" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5HwN0qHpSAg2gvI54fK-45" target="V5HwN0qHpSAg2gvI54fK-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-45" value="Breather Plug Install" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="966" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V5HwN0qHpSAg2gvI54fK-47" target="V5HwN0qHpSAg2gvI54fK-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-47" value="NVH Pad Install" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="966" y="249" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V5HwN0qHpSAg2gvI54fK-49" value="Pack Offload" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;flipH=1;direction=west;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="249" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
